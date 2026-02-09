@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/app-store-platform-215276-215291/app_store_backend"
+}
